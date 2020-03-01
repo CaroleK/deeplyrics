@@ -22,4 +22,4 @@ Pour que le notebook tourne bien, il faut créer 4 dossiers au sein du dossier o
 
 3. Sample de lyrics
 
-![Alt text](data/generated_lyrics/sample_the_beatles_epoch35.jpg?raw=true "Title")
+![Screenshot](data/generated_lyrics/sample_the_beatles_epoch35.jpg?raw=true "Title")
