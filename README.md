@@ -5,8 +5,7 @@ DeepLyrics : Génération de lyrics dans le style d'un artiste
 L'ensemble du projet se trouve dans le notebook DeepLyrics.ipynb. 
 Il a été implémenté avec Pytorch.
 
-Lien vers le dataset 
-[a link] (https://www.kaggle.com/mousehead/songlyrics)
+Lien vers le dataset : https://www.kaggle.com/mousehead/songlyrics
 
 1. Librairies (particulières) nécessaires
 
